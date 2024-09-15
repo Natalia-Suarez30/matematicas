@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="5.6.4">
+    <config>
+        <recursos>Recursos</recursos>
+        <idioma>0</idioma>
+        <licencia></licencia>
+        <corfondo>85DCB7</corfondo>
+        <corbanda>99E3C6</corbanda>
+        <cornavega>ffffff</cornavega>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <titulo>Los números décimales</titulo>
+        <autor>Natalia Suarez</autor>
+        <logo>Logo.jpeg</logo>
+        <imaxefondo posx="-130" posy="-10" trans="15">Fondo.jpeg</imaxefondo>
+        <informe>1</informe>
+        <botonson>1</botonson>
+        <maximizar>1</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="EFECTO_DE_SONIDO__APLAUSOS_Y_GRITOS.mp3" modo="1" >¡Eres excelente! ¡ Sigue asi!</correcto>
+        <incorrecto son="EFECTO_DE_SONIDO___OH_NO_OH_NO_OH_NO_NO_NO.mp3" modo="1" >¡Sigue intentando! ¡Tu puedes!</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>15</tipo>
+              <cfondo>E1F7EE</cfondo>
+              <ctexto>000000</ctexto>
+              <menu boton="Introducción"><![CDATA[<center>
+<br><font color="#000000" <size="0,01">
+<br><iframe width="660" height="380" src="https://www.youtube.com/embed/OWA_pAZUSyk" title="Todo sobre los números decimales [PARA NIÑOS]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<br></font></p>
+<br>]]></menu>
+              <menu boton="Fracciones decimales" imaxe="Fracciones_decimales.png"><![CDATA[]]></menu>
+              <menu boton="Fracción a decimal" imaxe="Convertir.png"><![CDATA[]]></menu>
+              <menu boton="Suma y resta" imaxe="Suma_y_Resta.png"><![CDATA[]]></menu>
+              <menu boton="Multiplicación" imaxe="Multiplicaci_on.png"><![CDATA[]]></menu>
+              <menu boton="División" imaxe="Divisi_on.png"><![CDATA[]]></menu>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="2" >
+              <tipo>28</tipo>
+            <nonpasar>1</nonpasar>
+              <cabeceira>Ingresa en el sugiente link y evalúa tus conocimientos</cabeceira>
+              <boton texto="Partes de una fracción">3</boton>
+              <boton texto="Lectura y escritura de fracciones">4</boton>
+              <boton texto="Sumas y restas">5</boton>
+              <boton texto="Multiplicación y división ">6</boton>
+              <boton texto="Resuelve problemas">8</boton>
+              <boton texto="Practica">https://wordwall.net/es/resource/6153103/suma-y-resta-con-decimales</boton>
+              <boton texto="¡Evalúate!">https://www.liveworksheets.com/w/es/matematicas/218390</boton>
+        </paxina>
+        <paxina id="3" >
+              <tipo>20</tipo>
+            <nonpasar>1</nonpasar>
+              <cabeceira>Ubica el nombre de cada parte del siguiente número</cabeceira>
+              <imaxe>Actividad_1.png</imaxe>
+              <modo>3</modo>
+              <etiqueta posx="178" posy="203">Parte entera</etiqueta>
+              <etiqueta posx="346" posy="198">Parte decimal</etiqueta>
+        </paxina>
+        <paxina id="4" >
+              <tipo>11</tipo>
+            <nonpasar>1</nonpasar>
+              <cabeceira>Escribe como se leen los siguientes números</cabeceira>
+              <modo>1</modo>
+              <cousa nome="cero enteros y veinticinco centésimas">Ejercicio_1.png</cousa>
+              <cousa nome="dos enteros y cinco décimas ">Ejercicio_2.png</cousa>
+              <cousa nome="Un entero y veinticinco centésimas">Ejercicio_3.png</cousa>
+              <cousa nome="cero enteros y quinientos setenta y tres  milésimas">Ejercicio_4.png</cousa>
+        </paxina>
+        <paxina id="5" >
+              <tipo>30</tipo>
+            <nonpasar>1</nonpasar>
+              <cabeceira>Resuelve las operaciones</cabeceira>
+              <imaxe posx="0" posy="40">Actividad_6.png</imaxe>
+              <modo>1</modo>
+              <valor>25</valor>
+              <etiqueta posx="32" posy="115">2,64</etiqueta>
+              <etiqueta posx="29" posy="232">4,37</etiqueta>
+              <etiqueta posx="180" posy="112">22,05</etiqueta>
+              <etiqueta posx="180" posy="232">26,16</etiqueta>
+              <etiqueta posx="346" posy="115">26,06</etiqueta>
+              <etiqueta posx="341" posy="232">5,85</etiqueta>
+        </paxina>
+        <paxina id="6" >
+              <tipo>30</tipo>
+              <imaxe posx="0" posy="9">ejercicios_d.png</imaxe>
+              <modo>1</modo>
+              <etiqueta posx="136" posy="84">24,776</etiqueta>
+              <etiqueta posx="285" posy="83">0,1304</etiqueta>
+              <etiqueta posx="143" posy="133">120, 84</etiqueta>
+              <etiqueta posx="283" posy="133">0.636</etiqueta>
+        </paxina>
+        <paxina id="7" >
+              <tipo>30</tipo>
+            <nonpasar>1</nonpasar>
+              <imaxe posx="17" posy="2">ejercicios_m.png</imaxe>
+              <modo>1</modo>
+              <etiqueta posx="143" posy="82">3</etiqueta>
+              <etiqueta posx="285" posy="83">40</etiqueta>
+              <etiqueta posx="140" posy="132">0.384</etiqueta>
+              <etiqueta posx="283" posy="133">0.0288</etiqueta>
+        </paxina>
+        <paxina id="8" >
+              <tipo>2</tipo>
+              <cabeceira>Lee con atención la siguiente situación</cabeceira>
+              <imaxe posx="0" posy="0">Actividad_4.png</imaxe>
+        </paxina>
+        <paxina id="9" >
+              <tipo>20</tipo>
+              <cabeceira>Escribe los nombre de los 4 primeros niños de mayor a menor</cabeceira>
+              <imaxe>Actividad_5.png</imaxe>
+              <modo>2</modo>
+              <etiqueta posx="23" posy="0">Teo</etiqueta>
+              <etiqueta posx="132" posy="0">Alberto</etiqueta>
+              <etiqueta posx="244" posy="0">Miguel</etiqueta>
+              <etiqueta posx="355" posy="0">Juan</etiqueta>
+        </paxina>
+        <paxina id="10" >
+              <tipo>1</tipo>
+              <imaxe>Actividad_7.png</imaxe>
+              <texto>Resuelve la siguiente situación y escoge la respuesta correcta</texto>
+              <resp texto="" valor="1">0.9 euros</resp>
+              <resp texto="" valor="0">9.1 euros</resp>
+              <resp texto="" valor="0">1.6 euros</resp>
+        </paxina>
+        <paxina id="11" >
+              <tipo>30</tipo>
+              <cabeceira>Un circuito A y un circuito B tienen la forma y las dimensiones que indica la figura.</cabeceira>
+              <imaxe posx="8" posy="23">Problema_2.png</imaxe>
+              <modo>2</modo>
+              <etiqueta posx="265" posy="67">29,4 km</etiqueta>
+              <etiqueta posx="263" posy="116">31,2 km</etiqueta>
+        </paxina>
+    </libro>
+</lim>
